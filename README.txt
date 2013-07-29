@@ -1,4 +1,4 @@
-This sends a message to a set of nunbers held in an SQLITE3 database.
+This sends a message to a set of numbers held in an SQLITE3 database.
 
 It consists of two parts - a server script and a sending script
 
