@@ -1,0 +1,11 @@
+{
+  "name": "zimclick",
+  "version": "0.0.0",
+  "description": "Deliver a single message to multiple recipients with retries and delivery reports using clickatell",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tobias Quinn",
+  "license": "GPL3"
+}
